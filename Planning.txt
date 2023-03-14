@@ -1,0 +1,31 @@
+	
+I- Frontened developement: 
+	1st step : 
+		-Fixing the sidebar and the theme
+	2nd step : 
+		-Fixing the admin's dashboard :
+			-decomposing the work into small files
+			-finding the relations that we need to make between files
+			-starting to execute the work
+			-validating the work
+		-Fixing the employee's dashboard:
+			-ignored due to the lack of importance and time
+
+		-Fixing the participant's dashboard:
+
+	3rd step : 
+		- linking frontend with backend
+II- Backend developement :
+	-make a map about the modals and the database structure
+	-build the api with the main routes
+	-make authentication work
+	-make the api requests for the admin
+	-make the api requests for the user
+
+Next Step : 
+	-Make the admin workspace orgnoized (fix the css mistakes)	
+	-Clean up the front and back end code
+	-Complete the participants pages
+	-Make the vistors page
+
+Testing
